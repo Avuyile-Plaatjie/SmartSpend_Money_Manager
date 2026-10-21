@@ -1,0 +1,109 @@
+date,description,amount,kind,category,source
+2025-01-01,Salary payroll,15000.0,income,Income,Demo data
+2025-01-03,Rent payment,-4500.0,expense,Housing,Demo data
+2025-01-06,Grocery store,-1483.0,expense,Groceries,Demo data
+2025-01-09,Takeaway lunch,-508.0,expense,Takeaways & eating out,Demo data
+2025-01-12,Transport / taxi,-993.0,expense,Transport,Demo data
+2025-01-15,Mobile data,-250.0,expense,Phone & data,Demo data
+2025-01-18,Streaming subscription,-99.0,expense,Subscriptions,Demo data
+2025-01-21,Electricity,-574.0,expense,Utilities,Demo data
+2025-01-24,Bank service fee,-65.0,expense,Bank fees,Demo data
+2025-02-01,Salary payroll,15300.0,income,Income,Demo data
+2025-02-03,Rent payment,-4500.0,expense,Housing,Demo data
+2025-02-06,Grocery store,-1597.0,expense,Groceries,Demo data
+2025-02-09,Takeaway lunch,-612.0,expense,Takeaways & eating out,Demo data
+2025-02-12,Transport / taxi,-978.0,expense,Transport,Demo data
+2025-02-15,Mobile data,-250.0,expense,Phone & data,Demo data
+2025-02-18,Streaming subscription,-99.0,expense,Subscriptions,Demo data
+2025-02-21,Electricity,-504.0,expense,Utilities,Demo data
+2025-02-24,Bank service fee,-65.0,expense,Bank fees,Demo data
+2025-03-01,Salary payroll,15600.0,income,Income,Demo data
+2025-03-03,Rent payment,-4500.0,expense,Housing,Demo data
+2025-03-06,Grocery store,-1571.0,expense,Groceries,Demo data
+2025-03-09,Takeaway lunch,-512.0,expense,Takeaways & eating out,Demo data
+2025-03-12,Transport / taxi,-922.0,expense,Transport,Demo data
+2025-03-15,Mobile data,-250.0,expense,Phone & data,Demo data
+2025-03-18,Streaming subscription,-99.0,expense,Subscriptions,Demo data
+2025-03-21,Electricity,-639.0,expense,Utilities,Demo data
+2025-03-24,Bank service fee,-65.0,expense,Bank fees,Demo data
+2025-04-01,Salary payroll,15000.0,income,Income,Demo data
+2025-04-03,Rent payment,-4500.0,expense,Housing,Demo data
+2025-04-06,Grocery store,-1586.0,expense,Groceries,Demo data
+2025-04-09,Takeaway lunch,-495.0,expense,Takeaways & eating out,Demo data
+2025-04-12,Transport / taxi,-947.0,expense,Transport,Demo data
+2025-04-15,Mobile data,-250.0,expense,Phone & data,Demo data
+2025-04-18,Streaming subscription,-99.0,expense,Subscriptions,Demo data
+2025-04-21,Electricity,-519.0,expense,Utilities,Demo data
+2025-04-24,Bank service fee,-65.0,expense,Bank fees,Demo data
+2025-05-01,Salary payroll,15300.0,income,Income,Demo data
+2025-05-03,Rent payment,-4500.0,expense,Housing,Demo data
+2025-05-06,Grocery store,-1638.0,expense,Groceries,Demo data
+2025-05-09,Takeaway lunch,-688.0,expense,Takeaways & eating out,Demo data
+2025-05-12,Transport / taxi,-1026.0,expense,Transport,Demo data
+2025-05-15,Mobile data,-250.0,expense,Phone & data,Demo data
+2025-05-18,Streaming subscription,-99.0,expense,Subscriptions,Demo data
+2025-05-21,Electricity,-593.0,expense,Utilities,Demo data
+2025-05-24,Bank service fee,-65.0,expense,Bank fees,Demo data
+2025-06-01,Salary payroll,15600.0,income,Income,Demo data
+2025-06-03,Rent payment,-4500.0,expense,Housing,Demo data
+2025-06-06,Grocery store,-1667.0,expense,Groceries,Demo data
+2025-06-09,Takeaway lunch,-561.0,expense,Takeaways & eating out,Demo data
+2025-06-12,Transport / taxi,-876.0,expense,Transport,Demo data
+2025-06-15,Mobile data,-250.0,expense,Phone & data,Demo data
+2025-06-18,Streaming subscription,-99.0,expense,Subscriptions,Demo data
+2025-06-21,Electricity,-576.0,expense,Utilities,Demo data
+2025-06-24,Bank service fee,-65.0,expense,Bank fees,Demo data
+2025-07-01,Salary payroll,15000.0,income,Income,Demo data
+2025-07-03,Rent payment,-4500.0,expense,Housing,Demo data
+2025-07-06,Grocery store,-1560.0,expense,Groceries,Demo data
+2025-07-09,Takeaway lunch,-625.0,expense,Takeaways & eating out,Demo data
+2025-07-12,Transport / taxi,-1029.0,expense,Transport,Demo data
+2025-07-15,Mobile data,-250.0,expense,Phone & data,Demo data
+2025-07-18,Streaming subscription,-99.0,expense,Subscriptions,Demo data
+2025-07-21,Electricity,-541.0,expense,Utilities,Demo data
+2025-07-24,Bank service fee,-65.0,expense,Bank fees,Demo data
+2025-08-01,Salary payroll,15300.0,income,Income,Demo data
+2025-08-03,Rent payment,-4500.0,expense,Housing,Demo data
+2025-08-06,Grocery store,-1663.0,expense,Groceries,Demo data
+2025-08-09,Takeaway lunch,-510.0,expense,Takeaways & eating out,Demo data
+2025-08-12,Transport / taxi,-912.0,expense,Transport,Demo data
+2025-08-15,Mobile data,-250.0,expense,Phone & data,Demo data
+2025-08-18,Streaming subscription,-99.0,expense,Subscriptions,Demo data
+2025-08-21,Electricity,-618.0,expense,Utilities,Demo data
+2025-08-24,Bank service fee,-65.0,expense,Bank fees,Demo data
+2025-09-01,Salary payroll,15600.0,income,Income,Demo data
+2025-09-03,Rent payment,-4500.0,expense,Housing,Demo data
+2025-09-06,Grocery store,-1511.0,expense,Groceries,Demo data
+2025-09-09,Takeaway lunch,-627.0,expense,Takeaways & eating out,Demo data
+2025-09-12,Transport / taxi,-932.0,expense,Transport,Demo data
+2025-09-15,Mobile data,-250.0,expense,Phone & data,Demo data
+2025-09-18,Streaming subscription,-99.0,expense,Subscriptions,Demo data
+2025-09-21,Electricity,-576.0,expense,Utilities,Demo data
+2025-09-24,Bank service fee,-65.0,expense,Bank fees,Demo data
+2025-10-01,Salary payroll,15000.0,income,Income,Demo data
+2025-10-03,Rent payment,-4500.0,expense,Housing,Demo data
+2025-10-06,Grocery store,-1685.0,expense,Groceries,Demo data
+2025-10-09,Takeaway lunch,-659.0,expense,Takeaways & eating out,Demo data
+2025-10-12,Transport / taxi,-1001.0,expense,Transport,Demo data
+2025-10-15,Mobile data,-250.0,expense,Phone & data,Demo data
+2025-10-18,Streaming subscription,-99.0,expense,Subscriptions,Demo data
+2025-10-21,Electricity,-582.0,expense,Utilities,Demo data
+2025-10-24,Bank service fee,-65.0,expense,Bank fees,Demo data
+2025-11-01,Salary payroll,15300.0,income,Income,Demo data
+2025-11-03,Rent payment,-4500.0,expense,Housing,Demo data
+2025-11-06,Grocery store,-1695.0,expense,Groceries,Demo data
+2025-11-09,Takeaway lunch,-695.0,expense,Takeaways & eating out,Demo data
+2025-11-12,Transport / taxi,-874.0,expense,Transport,Demo data
+2025-11-15,Mobile data,-250.0,expense,Phone & data,Demo data
+2025-11-18,Streaming subscription,-99.0,expense,Subscriptions,Demo data
+2025-11-21,Electricity,-530.0,expense,Utilities,Demo data
+2025-11-24,Bank service fee,-65.0,expense,Bank fees,Demo data
+2025-12-01,Salary payroll,15600.0,income,Income,Demo data
+2025-12-03,Rent payment,-4500.0,expense,Housing,Demo data
+2025-12-06,Grocery store,-1527.0,expense,Groceries,Demo data
+2025-12-09,Takeaway lunch,-601.0,expense,Takeaways & eating out,Demo data
+2025-12-12,Transport / taxi,-998.0,expense,Transport,Demo data
+2025-12-15,Mobile data,-250.0,expense,Phone & data,Demo data
+2025-12-18,Streaming subscription,-99.0,expense,Subscriptions,Demo data
+2025-12-21,Electricity,-572.0,expense,Utilities,Demo data
+2025-12-24,Bank service fee,-65.0,expense,Bank fees,Demo data

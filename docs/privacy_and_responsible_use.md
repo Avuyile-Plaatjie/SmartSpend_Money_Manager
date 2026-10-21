@@ -1,0 +1,3 @@
+# Privacy and responsible use
+
+Bank statements and payslips are sensitive. Avoid uploading PINs, passwords, full card numbers or unnecessary identity details. The app does not connect to a bank or move money. Users must review transaction classification and choose whether suggestions fit their situation. Public deployment requires review of hosting security, retention and access controls. Not professional financial, tax, credit or investment advice.
